@@ -1,4 +1,3 @@
-
 # PAC3: Visionant el futur amb les ulleres de Manovich 
 
 ### Recurs d'aprenetatge de Cultura Digital
@@ -19,7 +18,9 @@ VOCALOID és una revolució musical encabida dins d'una pantalla. Va fer la seva
   
 Amb tan sols importar la melodia i les lletres desitjades, la tecnologia darrere de VOCALOID converteix aquestes dades en una interpretació vocal que no prové d'un ésser humà, sinó d'un vocalista virtual generat pel programa. I això no és només sobre música; és sobre la creació d'una experiència artística completa amb eficàcia i innovació.  
   
-El punt d'inflexió va arribar quan ***Crypton Future Media*** va donar vida a la primera cantant virtual amb nom i cognom: **Hatsune Miku**, l'any 2007. La seva popularitat va créixer amb tanta intensitat que es va convertir en la primera *idol* virtual japonesa i, més endavant, en la primera cantant hologràfica. Un gir fascinant que va posicionar VOCALOID com molt més que una eina musical, sinó com una forma avantguardista d'entreteniment visual.  
+El punt d'inflexió va arribar quan ***Crypton Future Media*** va donar vida a la primera cantant virtual amb nom i cognom: **Hatsune Miku**, l'any 2007. La seva popularitat va créixer amb tanta intensitat que es va convertir en la primera *idol* virtual japonesa i, més endavant, en la primera cantant hologràfica. Un gir fascinant que va posicionar VOCALOID com molt més que una eina musical, sinó com una forma avantguardista d'entreteniment visual.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dv_pMzr5Roo?si=gNtxFzjEtTyQBNiz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
 Quan parlem de VOCALOID i la seva relació amb la hibridació, entrem en un món on la música és una amalgama de diversitat. La hibridació aquí no només es refereix a la fusió de diferents elements, sinó a la síntesi de veus que desafia la norma humana. Aquesta capacitat de sintetitzar veus no lligades a un intèrpret humà específic és el que impulsa la hibridació cultural en la música generada. Imagina una combinació única d'estils, gèneres i tradicions vocals de cultures diverses, tot gràcies a la virtualització de la veu.  
   
@@ -31,17 +32,17 @@ En conclusió, VOCALOID va més enllà dels límits de la producció musical con
 
 ## Redescobrint la hibridació, cas 2: -
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<iframe width="912" height="513" src="https://www.youtube.com/embed/ikuoM0LDiIQ" title="Video Mapping Palacio de Festivales de Cantabria" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+El Video Mapping del Palau de Festivals de Cantabria és una òpera audiovisual que uneix diferents conceptes relacionats amb les primeres civilitzacions, de la Bauhaus i les possibilitats de la unió entre la tecnologia i l’art.
 
 ### Referències i Bibliografia
 
-* Manovich, Lev. (2013). **El Software pren el comandament**. Barcelona: Editorial UOC.
-* *Hatsune Miku, Viquipèdia: l'enciclopèdia lliure*, [consulta: 18/12/2023]. Disponible a: https://ca.wikipedia.org/wiki/Hatsune_Miku
-* *Hatsune Miku, Vocaloid Wiki, Fandom*, [consulta: 18/12/2023]. Disponible a: https://vocaloid.fandom.com/es/wiki/Hatsune_Miku#V2
-* *VOCALOID, the modern singing synthesizer*, [consulta: 18/12/2023]. Disponible a: https://www.vocaloid.com/en/
-* Nicholson, S. (2016). How Music Technology Evolved Over the Years?, SpeakStick, Juliol
-de 2016 [consulta: 20/11/2023]. Disponible a:
+* Manovich, Lev. (2013). ***El software pren el comandament***. Barcelona: Editorial UOC.
+* ***Hatsune Miku**, Viquipèdia: l'enciclopèdia lliure*, [consulta: 18/12/2023]. Disponible a: https://ca.wikipedia.org/wiki/Hatsune_Miku
+* ***Hatsune Miku**, Vocaloid Wiki, Fandom*, [consulta: 18/12/2023]. Disponible a: https://vocaloid.fandom.com/es/wiki/Hatsune_Miku#V2
+* ***VOCALOID**, the modern singing synthesizer*, [consulta: 18/12/2023]. Disponible a: https://www.vocaloid.com/en/
+* ***Video Mapping Palacio de Festivales de Cantabria**, ElektrART*, [consulta: 18/12/2023]. Disponible a. Disponible a: https://elektrart.com/portfolio/video-mapping-palacio-de-festivales/
 ----
 
 Licència: Material Creative Commons desenvolupat sota llicència CC BY-SA 4.0.
