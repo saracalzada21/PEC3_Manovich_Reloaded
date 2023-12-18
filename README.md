@@ -1,26 +1,11 @@
+
 # PAC3: Visionant el futur amb les ulleres de Manovich 
 
 ### Recurs d'aprenetatge de Cultura Digital
 
 **Autor:** Sara Calzada Martínez
-**Data:** 18 de desembre de 2023
 
-**És una hibridació de mitjans? o és un cas particular de multimèdia?
-És una “evolució del medi” o una “remescla” de mitjans?
-Es crea un llenguatge nou?
-Es pot considerar una nova plataforma de mitjans? (com ho pot ser el mòbil)
-Quines estratègies d'hibridació observes? (capítol 3 de Manovich)
-Hi ha nous tipus de representació híbrides? (per exemple representant els personatges entre còmic i mapa!
-Hi ha noves maneres d’interactuar amb els mitjans?**
-
-*Què és la hibridació de mitjans? (breument per introduir el document)*
-*Com es pot reconèixer una d'aquestes hibridacions? Com distingir-ne d'altres (multimèdia/remediació)?*
-Cas escollit (Com funciona i mitjans que incorpora)
-Quina mena d'hibridació es pot identificar en aquest cas? (segons Manovich)
-Valoracions personals i bibliografia
-
-
-
+**Data d'entrega:** 18 de desembre de 2023
 
 ## Plantejament
 
@@ -52,12 +37,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Referències i Bibliografia
 
 * Manovich, Lev. (2013). **El Software pren el comandament**. Barcelona: Editorial UOC.
-* https://www.vocaloid.com/en/
-* https://www.vocaloid.com/en/vocaloid6/
-* https://vocaloid.fandom.com/es/wiki/Hatsune_Miku
-* https://es.wikipedia.org/wiki/Miku_Hatsune
-
-
+* *Hatsune Miku, Viquipèdia: l'enciclopèdia lliure*, [consulta: 18/12/2023]. Disponible a: https://ca.wikipedia.org/wiki/Hatsune_Miku
+* *Hatsune Miku, Vocaloid Wiki, Fandom*, [consulta: 18/12/2023]. Disponible a: https://vocaloid.fandom.com/es/wiki/Hatsune_Miku#V2
+* *VOCALOID, the modern singing synthesizer*, [consulta: 18/12/2023]. Disponible a: https://www.vocaloid.com/en/
+* Nicholson, S. (2016). How Music Technology Evolved Over the Years?, SpeakStick, Juliol
+de 2016 [consulta: 20/11/2023]. Disponible a:
 ----
 
-Licència: Material Creative Commons desenvolupat sota llicència CC BY-SA 4.0. Imatges CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Licència: Material Creative Commons desenvolupat sota llicència CC BY-SA 4.0.
